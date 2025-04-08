@@ -1,3 +1,3 @@
-# duoduo-la.github.io
+# mengyuan-zhu.github.io
 
-- Personal website of Kefei Duan, a PhD student in Washington University in St. Louis.
+- Personal website of Mengyuan Zhu, a PhD student at NUS.
